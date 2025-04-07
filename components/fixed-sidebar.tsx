@@ -119,7 +119,7 @@ export default function FixedSidebar() {
         </Sheet>
         <div className= "w-full pl-8">
         <Link href="/" className="text-xl font-bold">
-          WorkWear Pro
+          Laboratorio Catch
         </Link>
         </div>
         <div className="flex items-center space-x-4">
