@@ -8,7 +8,7 @@ export default function SiteFooter() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Columna 1: Acerca de */}
           <div>
-            <h3 className="text-xl font-bold mb-4">WorkWear Pro</h3>
+            <h3 className="text-xl font-bold mb-4">Laboratorio Catch</h3>
             <p className="text-blue-100 mb-4">
               Especialistas en ropa de trabajo y prendas personalizadas para empresas, negocios y emprendimientos.
             </p>
@@ -115,14 +115,14 @@ export default function SiteFooter() {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-blue-200 mr-2" />
-                <span className="text-blue-100">info@workwearpro.com</span>
+                <span className="text-blue-100">infolaboratoriocatch.com</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-blue-800 mt-12 pt-8 text-center text-blue-200">
-          <p>&copy; {new Date().getFullYear()} WorkWear Pro. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Laboratorio Catch. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
